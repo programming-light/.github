@@ -67,16 +67,7 @@ Our mission is simple —
 
 ---
 
-### 🧠 Featured Works
 
-| Project | Tech | Description |
-|----------|------|-------------|
-| 🌐 **LightDocs** | Next.js + MongoDB | A lightweight documentation platform for small dev teams |
-| 🧰 **NodeBox** | Node.js + Express | Modular backend boilerplate for rapid API development |
-| 🤖 **PyAutoSuite** | Python + Selenium | Automation toolkit for modern workflows |
-| 📦 **ReactBase** | React + Tailwind | A responsive and modern UI template for startups |
-
----
 
 ### 👥 Team & Collaboration
 
@@ -88,22 +79,25 @@ If you’re interested in joining, feel free to reach out! 🤝
 
 ---
 
-### 🔗 Connect With Us
 
-<p align="center">
-  <a href="https://github.com/Programming-light-71" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/satiqurrahman/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://atiqurrahman-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7B1FA2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/sayedmd.atiqurrahman/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+### 🌐 Connect with Neshakhor Programmer (We are the official software agency of this NP):
+- 💥 **Join Our Github:**
+  [NP Github Link](https://github.com/NeshakhorProgrammer)
+
+- 💥 **Join Our Discord Server:**
+  [Discord Invite Link](https://discord.gg/ybdsjwq35K)
+
+- 💥 **Join Our Telegram:**
+  [Telegram Invite Link](https://t.me/addlist/7N3OxwMPslxkMDc1)
+
+- 💥 **Join Our Facebook Group:**
+  [Neshakhor Programmer Family](https://www.facebook.com/groups/neshakhorprogrammerfamily/)
+
+- 💥 **Give Your Feedback:**
+  [Feedback Form](https://cutt.ly/z473BbU)
+
+- 💥 **YouTube Channel:**
+  [Neshakhor Programmer on YouTube](https://www.youtube.com/@NeshakhorProgrammer)
 
 ---
 
